@@ -6,11 +6,11 @@ opensource: "No"
 typeofcms: "API Driven"
 supportedgenerators:
   - All
-description: Headless pro-code Content Management platform and digital experience platform with versioning, localisation, customer records, tasks and projects and community engagement to build custom internal or external experiences without the heavy lifting.
+description: API-first headless CMS with versioning, localisation and personalisation.
 ---
 ## Baack
 
-Baack is a pro-code API first digital experience platform with content at its core.
+Baack is a pro-code, API-first digital experience platform with content at its core.
 
 * Fully featured content model.
 * Versioning, language and personalisation out of the box.
@@ -18,9 +18,9 @@ Baack is a pro-code API first digital experience platform with content at its co
 
 ### Pro-code and API-first
 
-Every experience offered from Baack is built API first with tools to help you create in-site or in app editorial workflows.
+Every experience offered from Baack is built API first with tools to help you create in-site or in-app editorial workflows.
 
-Baack has a rich admin console as a backup with the platform is designed to let content creators write where the content lives in the app or site.
+Baack also has a rich admin console as a backup, but the platform is designed to let content creators write where the content lives, in the app or site.
 
 ### Rich content model
 
@@ -28,4 +28,4 @@ The content API supports all standard content concepts from raw text, markdown, 
 
 ### Start small and scale
 
-Our platform is designed to deliver your content to any device. On-premisis deployment is available to enterprise customers. We offer a generous free tier for qualifying startups an charities.
+Baack is designed to deliver content to any device. On-premises deployment is available to enterprise customers, and there is a generous free tier for qualifying startups and charities.
